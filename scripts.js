@@ -1,3 +1,3 @@
-//Use this file to implement Part One of your project
+// Solutions to the exercises will go in this file
 
 
